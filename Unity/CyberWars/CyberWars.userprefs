@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Blooper Bash Foes Fall\Assets\Scripts\CameraStuff\FadesOut.cs">
+    <Files>
+      <File FileName="..\Blooper Bash Foes Fall\Assets\Scripts\CameraStuff\FadesOut.cs" Line="16" Column="1" />
+      <File FileName="..\Blooper Bash Foes Fall\Assets\Scripts\GameController.cs" Line="16" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
